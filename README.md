@@ -20,9 +20,9 @@ Also add search bar on top of list and add functionality of local search (i.e. s
 Api : - https://wwwdev.lugelo.com/api/v0/login/
 Method :- Post
 
-``` Sample Payload :-
+``` Request Body :-
 var payload = {
   email: "aamir@perceptionsystem.com",
   password: "123456"
-} ```
-
+} 
+```
