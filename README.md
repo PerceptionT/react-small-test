@@ -1,6 +1,8 @@
-## First Page should be login screen. After login below grocery list page should display.
+Create a simple React app from the scratch as describe below:
 
-## Grocery List Page
+## Page 1. First Page should be login screen. After login below grocery list page should display.
+
+## Page 2. Grocery List Page
 
 You have a Grocery product list class, which receives a list of products, each one with name and votes. Properties of your class is Grocery name (text) and upvote (integer)
 
@@ -12,7 +14,7 @@ User can upvote or downvote the product and list should be refreshed again. You 
 
 Also add search bar on top of list and add functionality of local search (i.e. search from the array). 
 
-## API for Login
+### API for Login
 (Identify the below payload fields and add your inputs to login screen).
 
 Api : - https://wwwdev.lugelo.com/api/v0/login/
@@ -22,5 +24,5 @@ Method :- Post
 var payload = {
   email: "aamir@perceptionsystem.com",
   password: "123456"
-}````
+} ```
 
